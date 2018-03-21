@@ -9,7 +9,7 @@ public class GroupC {
 		int nb_division = 0;
 
 		if(number == 1){
-			System.out.println(number+" is a prime.");
+			System.out.println(number+" is a prime.");//
 		}
 
 		for(int i=1; i<number ; i++){
