@@ -10,12 +10,6 @@ public static void main(String[] args) {
 	} else {
 		system.out.println(n + " n/'est pas premier.");
 	}
-	
-	
-	
-	
-	
-	
 }
 
 public boolean test(int n) {
@@ -23,5 +17,4 @@ public boolean test(int n) {
 	if (n%n == 0 && n%1 == 0) return true;
 	else return false;
 	}
-	
 }
