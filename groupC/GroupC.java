@@ -3,7 +3,7 @@ package groupC;
  
 public class GroupC {
 
-	public void main(String args[]){
+	public static void main(String args[]){
 		
 		int number = Integer.parseInt(args[0]); // I store the agr in a variable
 		int nb_division = 0;
